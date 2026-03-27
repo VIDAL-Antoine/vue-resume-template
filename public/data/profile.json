@@ -1,6 +1,6 @@
 {
     "name": "VIDAL Antoine",
-    "profilePictureUrl": "images/pictures/profile-square.jpg",
+    "profilePictureUrl": "images/pictures/profile-square.png",
     "locales": {
         "en": {
             "credits": "",
@@ -18,12 +18,12 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "Massy - France",
-                    "valueShort": "Massy - France"
+                    "value": "Paris - France",
+                    "valueShort": "Paris - France"
                 },
                 "fr": {
-                    "value": "Massy - France",
-                    "valueShort": "Massy - France"
+                    "value": "Paris - France",
+                    "valueShort": "Paris - France"
                 }
             }
         },
